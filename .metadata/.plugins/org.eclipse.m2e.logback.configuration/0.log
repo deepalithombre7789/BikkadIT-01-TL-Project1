@@ -1,0 +1,16 @@
+2023-01-12 16:06:05,864 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-12 16:08:56,065 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bikkadIT:TLDemo1:0.0.1-SNAPSHOT @ C:\Users\Lenovo\Desktop\TeamLeader-Project1\TLDemo1\pom.xml.
+2023-01-12 16:08:57,483 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TLDemo1/src/main/java
+2023-01-12 16:08:57,484 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TLDemo1/src/main/resources
+2023-01-12 16:08:57,493 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TLDemo1/src/main/resources
+2023-01-12 16:08:57,499 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TLDemo1/src/test/java
+2023-01-12 16:09:00,136 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2023-01-12 16:09:00,142 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-12 16:09:00,751 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bikkadIT:TLDemo1:0.0.1-SNAPSHOT @ C:\Users\Lenovo\Desktop\TeamLeader-Project1\TLDemo1\pom.xml.
+2023-01-12 16:09:01,096 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TLDemo1/src/main/java
+2023-01-12 16:09:01,096 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TLDemo1/src/main/resources
+2023-01-12 16:09:01,097 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TLDemo1/src/main/resources
+2023-01-12 16:09:01,097 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TLDemo1/src/test/java
+2023-01-12 16:09:01,444 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-01-12 16:09:02,240 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 16:09:02,256 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
